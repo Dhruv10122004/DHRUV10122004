@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Dhruv!
+# 👋 Hey, I'm Dhruv Khanna!
 
 ## 🧑‍💻 About Me
 - Into **Competitive Programming** & **Full-Stack Development**  
@@ -8,5 +8,5 @@
 
 ## 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dhruv-khanna10)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dhruvkhanna10)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhruvkhanna021@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dhruvkhanna10)
