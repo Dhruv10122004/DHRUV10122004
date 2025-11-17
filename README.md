@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Dhruv Khanna!
 
 ## 🧑‍💻 About Me
-- Into **Competitive Programming** & **Full-Stack Development**  
+- Into **CP**, **ML** & **Full-Stack Development**  
 - Open to collaborating on cool projects & ideas  
 
 ---
